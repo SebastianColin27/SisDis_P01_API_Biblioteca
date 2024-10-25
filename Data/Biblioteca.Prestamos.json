@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "6719962067b81467a070903b"
+  },
+  "lector": "6719284d92117df426e01b41",
+  "libro_id": "67194ca7726eaf06cfbea2e3",
+  "bibliotecario": "67194e99726eaf06cfbea2ef",
+  "fecha_prestamo": {
+    "$date": "2024-10-23T18:34:40.515Z"
+  },
+  "fecha_devolucion": {
+    "$date": "2024-10-26T18:34:40.515Z"
+  },
+  "foto_credencial": "https://sistemas-distribuidos-upiiz-sera2.s3.us-east-2.amazonaws.com/credenciales/Carlos+Mart%C3%ADnez.jpg"
+},
+{
+  "_id": {
+    "$oid": "671996b567b81467a070903c"
+  },
+  "lector": "67194f39726eaf06cfbea2f1",
+  "libro_id": "67194cde726eaf06cfbea2e4",
+  "bibliotecario": "67194e99726eaf06cfbea2ef",
+  "fecha_prestamo": {
+    "$date": "2024-10-23T18:37:09.144Z"
+  },
+  "fecha_devolucion": {
+    "$date": "2024-10-26T18:37:09.144Z"
+  },
+  "foto_credencial": "https://sistemas-distribuidos-upiiz-sera2.s3.us-east-2.amazonaws.com/credenciales/Elena+Morales.jpg"
+},
+{
+  "_id": {
+    "$oid": "6719976767b81467a070903d"
+  },
+  "lector": "67194f61726eaf06cfbea2f3",
+  "libro_id": "67194d12726eaf06cfbea2e7",
+  "bibliotecario": "67194e99726eaf06cfbea2ef",
+  "fecha_prestamo": {
+    "$date": "2024-10-23T18:40:07.305Z"
+  },
+  "fecha_devolucion": {
+    "$date": "2024-10-26T18:40:07.305Z"
+  },
+  "foto_credencial": "https://sistemas-distribuidos-upiiz-sera2.s3.us-east-2.amazonaws.com/credenciales/Laura+Herrera.jpg",
+  "devuelto": true,
+  "fecha_devolucion_real": {
+    "$date": "2024-10-23T18:40:56.098Z"
+  }
+}]

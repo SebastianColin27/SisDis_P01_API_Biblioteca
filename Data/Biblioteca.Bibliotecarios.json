@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "6719287892117df426e01b42"
+  },
+  "nombre": "Ana",
+  "apellido": "Gómez",
+  "correo": "ana.gomez@example.com"
+},
+{
+  "_id": {
+    "$oid": "67194e81726eaf06cfbea2ed"
+  },
+  "nombre": "María",
+  "apellido": "López",
+  "correo": "mlopez@biblioteca.com"
+},
+{
+  "_id": {
+    "$oid": "67194e99726eaf06cfbea2ef"
+  },
+  "nombre": "Sofía",
+  "apellido": "Ruiz",
+  "correo": "sruiz@biblioteca.com"
+}]

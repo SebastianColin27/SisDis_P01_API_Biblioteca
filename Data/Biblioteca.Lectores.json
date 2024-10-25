@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "6719284d92117df426e01b41"
+  },
+  "nombre": "Carlos",
+  "apellido": "Martinez",
+  "correo": "caros.mar@example.com"
+},
+{
+  "_id": {
+    "$oid": "67194f1a726eaf06cfbea2f0"
+  },
+  "nombre": "Diego",
+  "apellido": "Ramirez",
+  "correo": "diegram@mail.com"
+},
+{
+  "_id": {
+    "$oid": "67194f39726eaf06cfbea2f1"
+  },
+  "nombre": "Elena",
+  "apellido": "Morales",
+  "correo": "elamora@mail.com"
+},
+{
+  "_id": {
+    "$oid": "67194f42726eaf06cfbea2f2"
+  },
+  "nombre": "Javier",
+  "apellido": "Rodriguez",
+  "correo": "jaivorodri@mail.com"
+},
+{
+  "_id": {
+    "$oid": "67194f61726eaf06cfbea2f3"
+  },
+  "nombre": "Laura",
+  "apellido": "Herrera",
+  "correo": "laherra@mail.com"
+},
+{
+  "_id": {
+    "$oid": "67194f68726eaf06cfbea2f4"
+  },
+  "nombre": "Luis",
+  "apellido": "Perez",
+  "correo": "elpereez@mail.com"
+},
+{
+  "_id": {
+    "$oid": "67194f73726eaf06cfbea2f5"
+  },
+  "nombre": "Maria",
+  "apellido": "Fernandez",
+  "correo": "maridez@mail.com"
+},
+{
+  "_id": {
+    "$oid": "67194f7b726eaf06cfbea2f6"
+  },
+  "nombre": "Ricardo",
+  "apellido": "Sanchez",
+  "correo": "richeez@mail.com"
+},
+{
+  "_id": {
+    "$oid": "67194f82726eaf06cfbea2f7"
+  },
+  "nombre": "Sofia",
+  "apellido": "Castillo",
+  "correo": "fofiscas@mail.com"
+},
+{
+  "_id": {
+    "$oid": "67194f89726eaf06cfbea2f8"
+  },
+  "nombre": "Ana",
+  "apellido": "Gonzalez",
+  "correo": "anagz@mail.com"
+}]

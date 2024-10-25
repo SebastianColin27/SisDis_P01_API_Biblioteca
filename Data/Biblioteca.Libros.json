@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "67194ca7726eaf06cfbea2e3"
+  },
+  "titulo": "Cien años de soledad",
+  "descripcion": "Una novela que narra la historia de la familiaen el pueblo",
+  "autor": "Gabriel García Márquez",
+  "imagen_portada": "https://sistemas-distribuidos-upiiz-sera2.s3.us-east-2.amazonaws.com/libros/portada_cien_anos_de_soledad_0.jpg",
+  "inventario": false
+},
+{
+  "_id": {
+    "$oid": "67194cde726eaf06cfbea2e4"
+  },
+  "titulo": "Harry Potter y la piedra filosofal",
+  "descripcion": "El primer libro de la serie Harry Potter, donde Harry descubre que es un mago.",
+  "autor": "J.K. Rowling",
+  "imagen_portada": "https://sistemas-distribuidos-upiiz-sera2.s3.us-east-2.amazonaws.com/libros/harrypotter.jpg",
+  "inventario": false
+},
+{
+  "_id": {
+    "$oid": "67194cf4726eaf06cfbea2e5"
+  },
+  "titulo": "Fundación",
+  "descripcion": "Primera novela de la serie Fundación que trata sobre el colapso de un imperio galáctico.",
+  "autor": "Isaac Asimov",
+  "imagen_portada": "https://sistemas-distribuidos-upiiz-sera2.s3.us-east-2.amazonaws.com/libros/fundacion.jpg",
+  "inventario": true
+},
+{
+  "_id": {
+    "$oid": "67194d08726eaf06cfbea2e6"
+  },
+  "titulo": "Orgullo y prejuicio",
+  "descripcion": "Una historia de amor y orgullo ambientada en la Inglaterra del siglo XIX.",
+  "autor": "Jane Austen",
+  "imagen_portada": "https://sistemas-distribuidos-upiiz-sera2.s3.us-east-2.amazonaws.com/libros/orgullo+y+prejuicio.jpeg",
+  "inventario": false
+},
+{
+  "_id": {
+    "$oid": "67194d12726eaf06cfbea2e7"
+  },
+  "titulo": "1984",
+  "descripcion": "Una novela distópica sobre un futuro totalitario.",
+  "autor": "George Orwell",
+  "imagen_portada": "https://sistemas-distribuidos-upiiz-sera2.s3.us-east-2.amazonaws.com/libros/1984.jpg",
+  "inventario": true
+},
+{
+  "_id": {
+    "$oid": "67194d1d726eaf06cfbea2e8"
+  },
+  "titulo": "Hamlet",
+  "descripcion": "Una tragedia sobre el príncipe Hamlet de Dinamarca.",
+  "autor": "William Shakespeare",
+  "imagen_portada": "https://sistemas-distribuidos-upiiz-sera2.s3.us-east-2.amazonaws.com/libros/hamlet.jpg",
+  "inventario": true
+},
+{
+  "_id": {
+    "$oid": "67194d27726eaf06cfbea2e9"
+  },
+  "titulo": "Don Quijote de la Mancha",
+  "descripcion": "Las aventuras de un hidalgo español que se cree caballero andante.",
+  "autor": "Miguel de Cervantes",
+  "imagen_portada": "https://sistemas-distribuidos-upiiz-sera2.s3.us-east-2.amazonaws.com/libros/don+quijote.jpg",
+  "inventario": true
+},
+{
+  "_id": {
+    "$oid": "67194d31726eaf06cfbea2ea"
+  },
+  "titulo": "El gran Gatsby",
+  "descripcion": "Una novela sobre el sueño americano en los años 20.",
+  "autor": "F. Scott Fitzgerald",
+  "imagen_portada": "https://sistemas-distribuidos-upiiz-sera2.s3.us-east-2.amazonaws.com/libros/el+gran+gatsby.jpg",
+  "inventario": true
+},
+{
+  "_id": {
+    "$oid": "67194d59726eaf06cfbea2eb"
+  },
+  "titulo": "Frankenstein",
+  "descripcion": "La historia de un científico que crea un ser monstruoso.",
+  "autor": "Mary Shelley",
+  "imagen_portada": "https://sistemas-distribuidos-upiiz-sera2.s3.us-east-2.amazonaws.com/libros/frankestein.jpg",
+  "inventario": true
+},
+{
+  "_id": {
+    "$oid": "67194d65726eaf06cfbea2ec"
+  },
+  "titulo": "Las aventuras de Tom Sawyer",
+  "descripcion": "Las travesuras de un niño llamado Tom en el sur de los EE. UU.",
+  "autor": "Mark Twain",
+  "imagen_portada": "https://sistemas-distribuidos-upiiz-sera2.s3.us-east-2.amazonaws.com/libros/las+aventuras.jpg",
+  "inventario": true
+}]

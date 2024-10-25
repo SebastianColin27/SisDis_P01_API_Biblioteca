@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "671927fe92117df426e01b40"
+  },
+  "nombre": "Gabriel",
+  "apellido": "García Márquez",
+  "bibliografia": "Escritor colombiano, autor de 'Cien años de soledad'."
+},
+{
+  "_id": {
+    "$oid": "67194bfa726eaf06cfbea2da"
+  },
+  "nombre": "J.K.",
+  "apellido": "Rowling",
+  "bibliografia": "Harry Potter y la piedra filosofal, Harry Potter y la cámara secreta"
+},
+{
+  "_id": {
+    "$oid": "67194c08726eaf06cfbea2db"
+  },
+  "nombre": "Isaac",
+  "apellido": "Asimov",
+  "bibliografia": "Fundación, Yo, robot"
+},
+{
+  "_id": {
+    "$oid": "67194c17726eaf06cfbea2dc"
+  },
+  "nombre": "Jane",
+  "apellido": "Austen",
+  "bibliografia": "Orgullo y prejuicio, Sentido y sensibilidad"
+},
+{
+  "_id": {
+    "$oid": "67194c26726eaf06cfbea2dd"
+  },
+  "nombre": "George",
+  "apellido": "Orwell",
+  "bibliografia": "1984, Rebelión en la granja"
+},
+{
+  "_id": {
+    "$oid": "67194c38726eaf06cfbea2de"
+  },
+  "nombre": "William",
+  "apellido": "Shakespeare",
+  "bibliografia": "Hamlet, Romeo y Julieta"
+},
+{
+  "_id": {
+    "$oid": "67194c45726eaf06cfbea2df"
+  },
+  "nombre": "Miguel",
+  "apellido": "de Cervantes",
+  "bibliografia": "Don Quijote de la Mancha"
+},
+{
+  "_id": {
+    "$oid": "67194c52726eaf06cfbea2e0"
+  },
+  "nombre": "F. Scott",
+  "apellido": "Fitzgerald",
+  "bibliografia": "El gran Gatsby"
+},
+{
+  "_id": {
+    "$oid": "67194c60726eaf06cfbea2e1"
+  },
+  "nombre": "Mary",
+  "apellido": "Shelley",
+  "bibliografia": "Frankenstein"
+},
+{
+  "_id": {
+    "$oid": "67194c6c726eaf06cfbea2e2"
+  },
+  "nombre": "Mark",
+  "apellido": "Twain",
+  "bibliografia": "Las aventuras de Tom Sawyer, Las aventuras de Huckleberry Finn"
+}]
