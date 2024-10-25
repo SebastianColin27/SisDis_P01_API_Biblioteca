@@ -50,7 +50,7 @@ En la siguiente iágen se refleja en la base de datos cómo cambia el estado de 
 ![EstadoLibrosEnBD](./Imagenes/EstadoLibrosEnBD.jpg)
 
 Ahora se muestra en la base de datos los libros prestados y los libros devuletos con la fecha de tres dias posteriores para devolver y los devueltos señalando la fecha real de la devolución: 
-![ComparacionLibroDevueltoNoDevuelto](./Imagenes/ComparacionLibroDevueltoNoDevuelto.jpg)
+![ComparacionLibroDevueltoNoDevuelto](./Imagenes/ComparacionLibroDevueltoNoDevuelto2.jpg)
 En este caso el libro fue devulto el mismo dia, sin embargo si se realiza la devoluxcón a fecha que sea se registrará esa fecha. 
 
 En las siguientes imágenes se muestran las fotografias de las credenciales de los lectores y de las portadas de los libros almacenados en AWS accediendo mediante el link. 
