@@ -21,7 +21,7 @@ Referente a los libros, préstamos y sus métodos se decidió agregar dos métod
 También se agregó un método **post devoluciones** en el cual se coloca el Id del préstamo a devilver y automáticamente el estado del libro pasa a disponible y se actualiza la fecha en la que se entregó oficialmente pues recordemos que el libro debe regresarse tres dias posteriores a su préstamo. En otras palabras este método permite de manera eficaz agregar la fecha de devolución real y cambiar la disponibilidad del libro. 
 
 Los métodos de esta API fueron separados por su clase como se muestra a continuación. 
-![Organización de la API](./Imagenes/separacionPorClasesjpg) 
+![Organización de la API](./Imagenes/separacionPorClases.jpg) 
 
 Para poder ejecutar correctamente ejecutar la API es necesario crear una base de datos en MongoDB con las colecciones colocadas en el repositorio de GitHub. Estas colecciones contienen algunos ejemplos en distintas situaciones como préstamos no devultos y devuletos, libros disponibles y no disponibles, lectores, bibliotecarios y autores. 
 Además se debe de tener descargado FASTAPI. 
